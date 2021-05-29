@@ -1,0 +1,29 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Personal website to be used to show off back end coding, I am not great with front end and primarily focus on back end and it is here to show that",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindeezKC/Website.git"
+  },
+  "keywords": [
+    "Personal",
+    "site"
+  ],
+  "author": "Kellan Christ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WindeezKC/Website/issues"
+  },
+  "homepage": "https://github.com/WindeezKC/Website#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
